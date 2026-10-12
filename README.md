@@ -2,9 +2,13 @@
 
 A single-file, offline-playable Tetris built as a hands-on trial run of working with Claude.
 
+**Play in your browser: https://s-yuki-prog.github.io/tetris/**
+
 ## How to play
 
-Just download `tetris.html` and open it in any modern browser — no server, no build step, no internet connection required.
+Open the link above to play right away in any modern browser.
+
+To play offline, download `tetris.html` and open it locally — no server, no build step, no internet connection required.
 
 ## Controls
 
